@@ -1,0 +1,9 @@
+1. Creating virtual environment with python 3.9(Step may be differ for windows xD)
+python3.9 -m venv tenv
+source tenv/bin/activate
+
+2. Installing requirements(Ignore any errors xD)
+pip install -r requirements.txt
+
+3.Run the app
+streamlit run app.py
